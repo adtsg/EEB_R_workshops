@@ -14,7 +14,7 @@ Check out our schedule for future workshops on the [google spreadsheet](https://
 
 + [knitr lesson](00_knitr_lesson.html)
 + [iris analysis](01_iris_analysis.html)
-+ [iris 2 scatter plot] (02_iris_plotting.html)
++ [iris 2 scatter plot](02_iris_plotting.html)
 + [Reproducible report with knitr full lesson](https://jcoliver.github.io/learn-r/005-intro-knitr.html)
 
 
