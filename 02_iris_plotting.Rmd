@@ -1,0 +1,22 @@
+---
+title: "My First Markdown"
+author: "Aditi Sengupta"
+date: "September 14, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My first R markdown for Git 
+<!-- eval means the code doesn't run -->
+
+```{r echo = FALSE}
+# echo means the code doesn't display
+plot(x = iris$Sepal.Length,
+     y = iris$Sepal.Width,
+     xlab = "Sepal Length",
+     ylab = "Sepal Width",
+     main = "Iris measurements")
+```
